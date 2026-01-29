@@ -1,5 +1,3 @@
-# Firebase Studio
+CodeArena code App
 
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+To get started, take a look at src/app/page.tsx.](https://codearena-git-main-kartikye99s-projects.vercel.app/)
