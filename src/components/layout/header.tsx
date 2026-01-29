@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { Logo } from '@/components/logo';
 import { UserNav } from './user-nav';
 import { Button } from '../ui/button';
+import { ThemeToggle } from './theme-toggle';
 
 export function Header() {
   return (
@@ -22,6 +23,7 @@ export function Header() {
         </Link>
       </nav>
       <div className="flex items-center gap-4">
+        <ThemeToggle />
         <UserNav />
       </div>
     </header>
